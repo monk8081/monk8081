@@ -1,3 +1,15 @@
+<div align="center">
+<img src="https://github.com/Vivek563/vivek563/blob/aa156e646538d32d84fa81d7e5e18c626db0bb6c/vivek.png" height="175px" width="275px"/>
+</div>
+ 
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish Maurya</h1>
+
+
+<h3 align="center">Inquisitive: An engaging Android frontend application designed to spark curiosity and encourage exploration.</h3>
+
+
+# 💫 About Me:
+Passionate about creating comprehensive solutions, I'm immersed in a FullStack project, honing my skills in React while also nurturing a strong affinity for open-source endeavors. As I embrace the realm of Android Development, I'm eagerly unraveling diverse possibilities to contribute, innovate, and collaborate.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manishallahbadia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-maurya-9506b11ba/) 
