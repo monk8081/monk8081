@@ -5,11 +5,16 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish Maurya</h1>
 
 
+
 <h3 align="center">Dedicated and motivated fresher seeking an entry-level position in DevOps and Cloud, with a passion for designing and building scalable, secure, and automated cloud infrastructure. Eager to contribute to dynamic teams and leverage cloud technologies to drive innovation.</h3>
 
 
 # 💫 About Me:
 Hey there! As a recent Master of Computer Application (MCA). I'm excited to jump into the world of DevOps engineering and contribute to the development of scalable and reliable systems. I have a strong passion for technology and a desire to learn and grow as a DevOps professional.
+
+- 🔭 I’m currently **learning GoLang, Kubernetes**
+- 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manishallahbadia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-maurya-9506b11ba/) 
