@@ -12,6 +12,8 @@
 # 💫 About Me:
 Hey there! As a recent Master of Computer Application (MCA). I'm excited to jump into the world of DevOps engineering and contribute to the development of scalable and reliable systems. I have a strong passion for technology and a desire to learn and grow as a DevOps professional.
 
+📫 Feel free to reach out to me at mmaurya694@gmail.com. I'm always open to new opportunities and connections.
+
 - 🔭 I’m currently **learning GoLang, Kubernetes**
 - 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
 
