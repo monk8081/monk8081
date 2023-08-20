@@ -16,12 +16,10 @@ Hey there! As a recent Master of Computer Application (MCA). I'm excited to jump
 
 - 🔭 I’m currently **learning GoLang, Kubernetes**
 - 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
-- ⚡ Fun fact **"Oh damn, this is just what I always wanted to know. Thank you for enlightening me."**
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manishallahbadia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-maurya-9506b11ba/) 
 
 
 
@@ -31,6 +29,15 @@ Hey there! As a recent Master of Computer Application (MCA). I'm excited to jump
 ![](https://github-readme-stats.vercel.app/api?username=monk8081&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monk8081&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monk8081&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+   
+## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-maurya-9506b11ba/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode](https://hashnode.com/@Manish30/) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:mmaurya694@gmail.com) 💌 <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=monk8081&icon=0&color=0)](https://visitcount.itsvg.in)
