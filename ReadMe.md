@@ -14,7 +14,7 @@ Hey there! As a recent Master of Computer Application (MCA). I'm excited to jump
 
 📫 Feel free to reach out to me at mmaurya694@gmail.com. I'm always open to new opportunities and connections.
 
-- 🔭 I’m currently **learning GoLang, Kubernetes**
+- 🔭 I’m currently **learning GoLang, Terraform**
 - 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
