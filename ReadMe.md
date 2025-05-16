@@ -10,12 +10,21 @@
 
 
 # 💫 About Me:
-Hey there! As a recent Master of Computer Application (MCA). I'm excited to jump into the world of DevOps engineering and contribute to the development of scalable and reliable systems. I have a strong passion for technology and a desire to learn and grow as a DevOps professional.
+# DevOps Engineer – Culture Holidays
 
+# Aug 2024 – Present | Onsite/Gurugram
+
+# Cloud Migration:    Shifted legacy on-premise systems to AWS, leveraging EC2, S3, and a custom VPC with public-private subnets, NAT Gateway, and Internet Gateway, boosting application availability and scalability by 40%.
+
+# CI/CD Pipeline:     Built a seamless CI/CD pipeline for a .NET MVC app using Azure DevOps, automating build, unit testing, linting, and deployment to IIS via a self-hosted agent, slashing deployment errors by 90% and saving ~6 hours/week.
+
+# Content Delivery Optimization:    Set up AWS CloudFront with Lambda@Edge to serve optimized static/dynamic content from S3, speeding up global delivery by 35% and easing origin server load.
+
+# Monitoring & Reliability:         Implemented Amazon CloudWatch with custom alarms and dashboards, ensuring proactive issue detection and maintaining 99.9% uptime.
 📫 Feel free to reach out to me at mmaurya694@gmail.com. I'm always open to new opportunities and connections.
 
 - 🔭 I’m currently **learning GoLang, Terraform**
-- 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
+- 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Azure Devops,Terraform**
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
